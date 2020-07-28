@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jasper Alani</h1>
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
-- 🔭 I’m currently working on [project/Shopping List](https://github.com/jasperalani/shopping-list)
+- 🔭 I’m currently working on [Shopping List](https://github.com/jasperalani/shopping-list)
 
 - 🌱 I’m currently learning **React, PHP, Wordpress, ES6, NodeJS, JQuery, Go, Docker, Linux**
 
-- 👯 I’m looking to collaborate on [project/NodeJS MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
+- 👯 I’m looking to collaborate on [NodeJS MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
-- 🤔 I’m looking for help with [project/General UUID](https://github.com/jasperalani/general-uuid)
+- 🤔 I’m looking for help with [General UUID](https://github.com/jasperalani/general-uuid)
 
 - 👨‍💻 All of my projects are available at [github/jasperalani](https://github.com/jasperalani/)
 
