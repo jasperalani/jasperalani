@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasperalani/](https://github.com/jasperalani/)
 
-- My LinkedIn page [https://www.linkedin.com/in/jasper-alani-08b80a139/edit/birthday/](https://www.linkedin.com/in/jasper-alani-08b80a139/edit/birthday/)
+- My LinkedIn page [https://www.linkedin.com/in/jasper-alani-08b80a139/edit/birthday/](https://www.linkedin.com/in/jasper-alani-08b80a139)
 
 - 💬 Ask me about **new projects!**
 
