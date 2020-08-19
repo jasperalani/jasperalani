@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jasper Alani</h1>
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
 - 🔭 I’m currently working on [Shopping List](https://github.com/jasperalani/shopping-list)
