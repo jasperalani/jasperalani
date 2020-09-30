@@ -1,6 +1,6 @@
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
-- 🔭 I’m currently working on [Shopping List](https://github.com/jasperalani/electron-pgp)
+- 🔭 I’m currently working on [Electron PGP](https://github.com/jasperalani/electron-pgp)
 
 - 🌱 I’m currently learning **React, PHP, Wordpress, ES6, NodeJS, JQuery, Go, Docker, Linux**
 
