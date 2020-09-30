@@ -8,8 +8,6 @@
 
 - 🤔 I’m looking for people to create a regular expression generator app.
 
-- 👨‍💻 All of my projects are available at [github/jasperalani](https://github.com/jasperalani/)
-
 - My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
 
 - 💬 Ask me about **new projects!**
