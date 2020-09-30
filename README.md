@@ -1,12 +1,12 @@
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
-- 🔭 I’m currently working on [Shopping List](https://github.com/jasperalani/shopping-list)
+- 🔭 I’m currently working on [Shopping List](https://github.com/jasperalani/electron-pgp)
 
 - 🌱 I’m currently learning **React, PHP, Wordpress, ES6, NodeJS, JQuery, Go, Docker, Linux**
 
 - 👯 I’m looking to collaborate on [NodeJS MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
-- 🤔 I’m looking for help with [General UUID](https://github.com/jasperalani/general-uuid)
+- 🤔 I’m looking for people to create a regular expression generator app.
 
 - 👨‍💻 All of my projects are available at [github/jasperalani](https://github.com/jasperalani/)
 
