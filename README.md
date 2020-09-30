@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, PHP, Wordpress, ES6, NodeJS, JQuery, Go, Docker, Linux**
 
-- 👯 I’m looking to collaborate on [NodeJS MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
+- 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
 - 🤔 I’m looking for people to create a regular expression generator app.
 
