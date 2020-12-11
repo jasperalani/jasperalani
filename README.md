@@ -1,12 +1,12 @@
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
-- 🔭 I’m currently working on [alexandria-go](https://github.com/alexandria-api/go). An image (file) hosting api written in Go.
+- 🔭 I’m currently working on [alexandria](https://github.com/alexandria-api/go). An image hosting api written in Go.
 
-- 🌱 I’m currently learning **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go** and sometimes **React, and Python**
+- 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go** and sometimes **React, and Python**
 
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
-- 🤔 I’m looking for people to create a regular expression generator app.
+- 🤔 I’m looking for people to create a regular expression generator app. If that makes sense...
 
 - My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
 
