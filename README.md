@@ -1,6 +1,6 @@
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
-- 🔭 I’m currently working on [alexandria](https://github.com/alexandria-api/go). An image hosting api written in Go.
+- 🔭 I’m currently working on [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
 
 - 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go** and sometimes **React, and Python**
 
