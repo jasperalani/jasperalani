@@ -1,6 +1,6 @@
 <h3 align="center">Developer based in Oxford</h3>
 
-- 🔭 I’m currently working on:
+- 🔭 For fun I’m currently working on:
   - [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
   - [simple-equation-sovler](https://github.com/jasperalani/simple-equation-sovler). A simple equation solver written in Vlang.
 
