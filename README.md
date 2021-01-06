@@ -1,4 +1,4 @@
-<h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
+<h3 align="center">Developer based in Oxford, UK.</h3>
 
 - 🔭 I’m currently working on [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
 nd s
