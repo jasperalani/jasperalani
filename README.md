@@ -4,7 +4,7 @@
   - [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
   - [simple-equation-solver](https://github.com/jasperalani/simple-equation-solver). A simple equation solver written in Vlang.
 
-- 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go, Vlang, React, Rust, and Python**
+- 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go, Vlang, React, Rust, and Python** and learning more.
 
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
