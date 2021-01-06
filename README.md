@@ -2,7 +2,7 @@
 
 - 🔭 For fun I’m currently working on:
   - [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
-  - [simple-equation-sovler](https://github.com/jasperalani/simple-equation-sovler). A simple equation solver written in Vlang.
+  - [simple-equation-solver](https://github.com/jasperalani/simple-equation-solver). A simple equation solver written in Vlang.
 
 - 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go, Vlang, React, Rust, and Python**
 
