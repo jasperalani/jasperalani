@@ -1,8 +1,8 @@
 <h3 align="center">Young trained in front-end, but want to learn back-end developer</h3>
 
 - 🔭 I’m currently working on [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
-
-- 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go** and sometimes **React, and Python**
+nd s
+- 🌱 I’m currently interested in **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go, V, React, Rust, and Python**
 
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
