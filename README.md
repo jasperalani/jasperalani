@@ -17,3 +17,5 @@
 - 📫 How to reach me **jasperalani@gmail.com**
 
 - ⚡ Fun fact **I love pizza! So much...**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperalani)](https://github.com/anuraghazra/github-readme-stats)
