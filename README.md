@@ -8,9 +8,9 @@
   - [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
   - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP utility software written in JS with Electron. 
-  - [alexandria](https://github.com/jasperalani/alexandria). (Simple) Image storage api written in PHP.
+  - [alexandria](https://github.com/jasperalani/alexandria). Image storage api written in PHP.
   - [house-mates/api](https://github.com/house-mates/api). Rest API written in Go.
-  - [shopping-list](https://github.com/jasperalani/shopping-list). A shopping list app written in React <sub><sup>Very unfinished</sup></sub> and Go. 
+  - [shopping-list](https://github.com/jasperalani/shopping-list). A shopping list app written in React <sup>(unfinished)</sup> and Go. 
   - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
   - [url-shortener](https://github.com/jasperalani/url-shortener). URL shortener written in Go.
 
@@ -26,8 +26,20 @@
 
 - ⚡ Fun fact **I love pizza! So much...**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperalani)](https://github.com/anuraghazra/github-readme-stats)
+<br> 
 
-&hide=javascript,html
-![](https://github.com/jasperalani/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jasperalani/github-stats/blob/master/generated/languages.svg)
+[![Jasper Alani's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jasperalani&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<br><br>
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
+[![BitCoin](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)](https://bitcoin.org)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
