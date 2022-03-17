@@ -1,4 +1,4 @@
-<h3 align="center">Developer based in Oxford, UK</h3>
+<h3 align="center">Developer based in Oxfordshire, UK</h3>
 
 - 🔭 For fun I’m currently working on:
   - 
@@ -10,7 +10,7 @@
   - [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
   - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP utility software written in JS with Electron. 
-  - [alexandria](https://github.com/jasperalani/alexandria). Image storage api written in PHP.
+  - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go and [PHP](https://github.com/jasperalani/alexandria).
   - [house-mates/api](https://github.com/house-mates/api). Rest API written in Go.
   - [shopping-list](https://github.com/jasperalani/shopping-list). A shopping list app written in React <sup>(unfinished)</sup> and Go. 
   - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
