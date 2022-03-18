@@ -1,11 +1,11 @@
 <h3 align="center">Developer based in Oxfordshire, UK</h3>
 
-- 🔭 For fun I’m currently working on:
+- 👌 ’m currently working on:
   - [portfolio](https://github.com/jasperalani/portfolio). My personal portfolio website written in Vue.
   - [mysql-query-builder](https://github.com/jasperalani/mysql-query-builder). MySQL query builder written in multiple languages.
 
-- 🔭 Some of my favourite projects are:
--   - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script thats imports a (WordPress) single site database into a multisite database.
+- ⚡ Some of my favourite projects are:
+  - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script thats imports a (WordPress) single site database into a multisite database.
   - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP utility software written in JS with Electron. 
   - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go and [PHP](https://github.com/jasperalani/alexandria).
@@ -18,13 +18,13 @@
 
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
-- My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
+- 🏢 My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
 
 - 💬 Ask me about **new projects!**
 
 - 📫 How to reach me **jasperalani@gmail.com** or **+44 7776 489590**
 
-- ⚡ Fun fact **I love pizza! So much...**
+- 🍕 Fun fact **I love pizza! So much...**
 
 <br> 
 
