@@ -7,7 +7,6 @@
   - [mysql-query-builder](https://github.com/jasperalani/mysql-query-builder). MySQL query builder written in multiple languages.
 
 - 🔭 Some of my favourite projects are:
-  - [dupli](https://github.com/jasperalani/dupli). A command line duplicate image finder written in Go.
   - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP utility software written in JS with Electron. 
   - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go and [PHP](https://github.com/jasperalani/alexandria).
