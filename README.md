@@ -2,7 +2,7 @@
 
 - 👌 I’m currently working on:
   - [v-algorithms](https://github.com/jasperalani/v-algorithms). Algorithms implemented in [V](https://vlang.io/).
-  - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go and [PHP](https://github.com/jasperalani/alexandria).
+  - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go. (and [PHP](https://github.com/jasperalani/alexandria))
   - [portfolio](https://github.com/jasperalani/portfolio). My personal portfolio website written in Vue.
 
 - ⚡ Some of my own favourite projects are:
