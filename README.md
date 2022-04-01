@@ -5,7 +5,7 @@
   - [portfolio](https://github.com/jasperalani/portfolio). My personal portfolio website written in Vue.
   - [mysql-query-builder](https://github.com/jasperalani/mysql-query-builder). MySQL query builder written in multiple languages.
 
-- ⚡ Some of my favourite projects are:
+- ⚡ Some of my own favourite projects are:
   - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script thats imports a (WordPress) single site database into a multisite database.
   - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP utility software written in JS with Electron. 
