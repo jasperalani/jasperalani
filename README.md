@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jasperalani@gmail.com** or **+44 7776 489590**
 
-- 🍕 Fun fact **I love pizza! So much...**
+- 🍕 About me **I love food. Especially pizza... and ramen!**
 
 <br> 
 
