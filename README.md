@@ -15,8 +15,6 @@
   - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
   - [url-shortener](https://github.com/jasperalani/url-shortener). URL shortener written in Go.
 
-- 🌱 Technologies that I have experience with / are learning: **PHP, Wordpress, ES6, NodeJS, JQuery, Docker, Linux, Go, Vlang, React, Python and Vue!**.
-
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
 - 🏢 My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
