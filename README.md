@@ -8,7 +8,7 @@
 - ⚡ Some of my own favourite projects are:
   - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script thats imports a (WordPress) single site database into a multisite database.
   - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
-  - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP utility software written in JS with Electron. 
+  - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP keychain utility software written in JS with Electron. 
   - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go and [PHP](https://github.com/jasperalani/alexandria).
   - [house-mates/api](https://github.com/house-mates/api). Rest API written in Go.
   - [shopping-list](https://github.com/jasperalani/shopping-list). A shopping list app written in React <sup>(unfinished)</sup> and Go. 
