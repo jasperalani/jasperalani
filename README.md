@@ -1,6 +1,6 @@
 <h3 align="center">Developer based in Oxfordshire, UK</h3>
 
-- 👌 ’m currently working on:
+- 👌 I’m currently working on:
   - [v-algorithms](https://github.com/jasperalani/v-algorithms). Algorithms implemented in [V](https://vlang.io/).
   - [portfolio](https://github.com/jasperalani/portfolio). My personal portfolio website written in Vue.
   - [mysql-query-builder](https://github.com/jasperalani/mysql-query-builder). MySQL query builder written in multiple languages.
