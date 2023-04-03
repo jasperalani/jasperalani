@@ -25,10 +25,6 @@
 
 - 🍕 About me **I love food. Especially pizza... and ramen!**
 
-<br> 
-
-[![Jasper Alani's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jasperalani&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 <br><br>
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
