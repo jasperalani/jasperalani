@@ -14,6 +14,8 @@
   - [shopping-list](https://github.com/jasperalani/shopping-list). A shopping list app written in React <sup>(unfinished)</sup> and Go. 
   - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
   - [url-shortener](https://github.com/jasperalani/url-shortener). URL shortener written in Go.
+ 
+- 🤗 The project I am most proud of: [expression-evaluator](https://github.com/jasperalani/expression-evaluator)
 
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
