@@ -1,6 +1,7 @@
 <h3 align="center">Developer based in Oxfordshire, UK</h3>
 
 - 👌 I’m currently working on:
+  - [ptdye-plus](https://github.com/game-design-driven/ptdye-plus). A minecraft mod for the [Create: Prepare to Dye](https://github.com/Yarden-zamir/Create-Prepare-to-Dye) modpack
   - [v-algorithms](https://github.com/jasperalani/v-algorithms). Algorithms implemented in [V](https://vlang.io/).
   - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go. (and [PHP](https://github.com/jasperalani/alexandria))
   - [portfolio](https://github.com/jasperalani/portfolio). My personal portfolio website written in Vue.
