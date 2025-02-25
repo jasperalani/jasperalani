@@ -1,4 +1,4 @@
-<h3 align="center">Developer based in Oxfordshire, UK</h3>
+<h3 align="center">Developer based in Wellington, NZ</h3>
 
 - 👌 I’m currently working on:
   - [simple-file-storage](https://github.com/jasperalani/simple-file-storage). An API written in Go for uploading and retrieving files, I also have a [PHP version](https://github.com/jasperalani/alexandria).
