@@ -1,10 +1,9 @@
 <h3 align="center">Developer based in Oxfordshire, UK</h3>
 
 - 👌 I’m currently working on:
-  - [ptdye-plus](https://github.com/game-design-driven/ptdye-plus). A minecraft mod for the [Create: Prepare to Dye](https://github.com/Yarden-zamir/Create-Prepare-to-Dye) modpack
+  - [simple-file-storage](https://github.com/jasperalani/simple-file-storage). An API written in Go for uploading and retrieving files, I also have a [PHP version](https://github.com/jasperalani/alexandria).
   - [v-algorithms](https://github.com/jasperalani/v-algorithms). Algorithms implemented in [V](https://vlang.io/).
-  - [alexandria](https://github.com/alexandria-api/go). Image storage api written in Go. (and [PHP](https://github.com/jasperalani/alexandria))
-  - [portfolio](https://github.com/jasperalani/portfolio). My personal portfolio website written in Vue.
+  - [portfolio](https://github.com/jasperalani/portfolio). My personal website written in Vue.
 
 - ⚡ Some of my own favourite projects are:
   - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script thats imports a (WordPress) single site database into a multisite database.
@@ -12,7 +11,7 @@
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP keychain utility software written in JS with Electron. 
   - [mysql-query-builder](https://github.com/jasperalani/mysql-query-builder). MySQL query builder written in multiple languages.
   - [house-mates/api](https://github.com/house-mates/api). CRUD Rest API written in Go.
-  - [shopping-list](https://github.com/jasperalani/shopping-list). A shopping list app written in React <sup>(unfinished)</sup> and Go. 
+  - [shopping-list](https://github.com/jasperalani/shopping-list). An <sup>(unfinished)</sup> shopping list app written in React and Go. 
   - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
   - [url-shortener](https://github.com/jasperalani/url-shortener). URL shortener written in Go.
  
@@ -24,7 +23,7 @@
 
 - 💬 Ask me about **new projects!**
 
-- 📫 How to reach me **jasperalani@gmail.com** or **+44 7776 489590**
+- 📫 How to reach me **jasperalani@gmail.com** or **+642904506305**
 
 - 🍕 About me **I love food. Especially pizza... and ramen!**
 
