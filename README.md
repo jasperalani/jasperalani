@@ -1,4 +1,19 @@
-<h3 align="center">Developer based in Wellington, NZ</h3>
+<h3 align="center">Software Developer based in Wellington, NZ</h3>
+
+- 🤗 The project I am most proud of: [expression-evaluator](https://github.com/jasperalani/expression-evaluator)
+  expression-evaluator is a tool written in [Vlang](https://vlang.io/) that reads an mathmatical equation as an input string;
+  - splits it into tokens (characters)
+  - processes the equation with Shunting Yard algorithm using a stack
+  - ensuring to follow correct the order of operations
+    
+  Basically it can compute something like ` 6+7*3/7` and return the answer: `9`
+
+
+<br>
+
+- 👍I'm also working on my own [personal development playground](https://dev.jasper.run) and my own [personal development blog](jaspers.blog) 😁
+
+  </br>
 
 - 👌 I’m currently working on:
   - [jcompiler](https://github.com/jasperalani/jcompiler). An API written in Go that can compile and return the result of submitted code, currently supporting python, js & ts, and golang.
@@ -16,8 +31,6 @@
   - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
   - [url-shortener](https://github.com/jasperalani/url-shortener). URL shortener written in Go.
  
-- 🤗 The project I am most proud of: [expression-evaluator](https://github.com/jasperalani/expression-evaluator)
-
 - 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
 - 🏢 My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
