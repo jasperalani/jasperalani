@@ -8,12 +8,7 @@
     
   Basically it can compute something like ` 6+7*3/7` and return the answer: `9`
 
-
-<br>
-
 - 👍I'm also working on my own [personal development playground](https://dev.jasper.run) and my own [personal development blog](jaspers.blog) 😁
-
-  </br>
 
 - 👌 I’m currently working on:
   - [jcompiler](https://github.com/jasperalani/jcompiler). An API written in Go that can compile and return the result of submitted code, currently supporting python, js & ts, and golang.
