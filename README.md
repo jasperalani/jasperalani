@@ -6,7 +6,7 @@
   - processes the equation with Shunting Yard algorithm using a stack
   - ensuring to follow correct the order of operations
     
-  Basically it can compute something like ` 6+7*3/7` and return the answer: `9`
+  Basically it can compute something like `6+7*3/7` and return the answer: `9`
 
 - 👍I'm also working on my own [personal development playground](https://dev.jasper.run) and my own [personal development blog](jaspers.blog) 😁
 
