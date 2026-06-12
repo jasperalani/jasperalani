@@ -30,8 +30,6 @@
 
 - 💬 Ask me about **new projects!**
 
-- 📫 How to reach me **jasperalani@gmail.com** or **+642904506305**
-
 - 🍕 About me **I love food. Especially pizza... and ramen!**
 
 <br><br>
