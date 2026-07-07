@@ -1,30 +1,25 @@
-<h3 align="center">Software Developer based in Wellington, NZ</h3>
+<h3 align="center">Software Developer based in Oxfordshire, UK</h3>
 
-- 🤗 The project I am most proud of: [expression-evaluator](https://github.com/jasperalani/expression-evaluator)
-  expression-evaluator is a tool written in [Vlang](https://vlang.io/) that reads an mathmatical equation as an input string;
+- 🥐 My latest project: [riseandflour](https://github.com/jasperalani/riseandflour)
+  A live production website for a local café — [riseandflour.co.uk](https://riseandflour.co.uk) — built on WordPress with a fully custom theme designed and coded from scratch.
+
+- 🤗 The project I am most proud of: [expression-evaluator](https://github.com/jasperalani/expression-evaluator).
+  expression-evaluator is a tool written in [Vlang](https://vlang.io/) that;
+  - reads a mathematical equation as an input string
   - splits it into tokens (characters)
-  - processes the equation with Shunting Yard algorithm using a stack
-  - ensuring to follow correct the order of operations
+  - processes the equation with the Shunting Yard algorithm using a stack ensuring to follow the correct order of operations
     
-  Basically it can compute something like `6+7*3/7` and return the answer: `9`
-
-- 👌 I’m currently working on:
-  - [jcompiler](https://github.com/jasperalani/jcompiler). An API written in Go that can compile and return the result of submitted code, currently supporting python, js & ts, and golang.
-  - [simple-file-storage](https://github.com/jasperalani/simple-file-storage). An API written in Go for uploading and retrieving files, I also have a [PHP version](https://github.com/jasperalani/alexandria).
-  - [v-algorithms](https://github.com/jasperalani/v-algorithms). Algorithms implemented in [V](https://vlang.io/).
-  - [portfolio](https://github.com/jasperalani/portfolio). My personal website written in Vue.
+  Basically it can compute an input string like `6+7*3/7` and return the answer: `9`
 
 - ⚡ Some of my own favourite projects are:
-  - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script thats imports a (WordPress) single site database into a multisite database.
-  - [expression-evaluator](https://github.com/jasperalani/expression-evaluator). An expression evaluator written in [V](https://github.com/vlang/v)
+  - [wp-db-merge](https://github.com/jasperalani/wp-db-merge). A PHP script that imports a (WordPress) single site database into a multisite database.
+  - [jcompiler](https://github.com/jasperalani/jcompiler). An API written in Go that can compile and return the result of submitted code, currently supporting python, js & ts, and golang.
+  - [simple-file-storage](https://github.com/jasperalani/simple-file-storage). An API written in Go for uploading and retrieving files, I also have a [PHP version](https://github.com/jasperalani/alexandria).
   - [electron-pgp](https://github.com/jasperalani/electron-pgp). PGP keychain utility software written in JS with Electron. 
   - [mysql-query-builder](https://github.com/jasperalani/mysql-query-builder). MySQL query builder written in multiple languages.
-  - [house-mates/api](https://github.com/house-mates/api). CRUD Rest API written in Go.
-  - [shopping-list](https://github.com/jasperalani/shopping-list). An <sup>(unfinished)</sup> shopping list app written in React and Go. 
-  - [python](https://github.com/jasperalani/Python). Miscellaneous python code. 🐍 
+  - [v-algorithms](https://github.com/jasperalani/v-algorithms). Algorithms implemented in [V](https://vlang.io/).
   - [url-shortener](https://github.com/jasperalani/url-shortener). URL shortener written in Go.
  
-- 👯 I’m looking to collaborate on [MySQL Query Builder](https://github.com/jasperalani/mysql-query-builder)
 
 - 🏢 My LinkedIn page [linkedin/jasper-alani](https://www.linkedin.com/in/jasper-alani-08b80a139)
 
@@ -37,6 +32,8 @@
 
 <br><br>
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![PHP](https://img.shields.io/badge/--777BB4?logo=php&logoColor=ffffff)](https://www.php.net/)
+[![WordPress](https://img.shields.io/badge/--21759B?logo=wordpress&logoColor=ffffff)](https://wordpress.org/)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
