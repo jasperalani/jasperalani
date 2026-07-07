@@ -1,7 +1,7 @@
 <h3 align="center">Software Developer based in Oxfordshire, UK</h3>
 
 - 🥐 My latest project: [riseandflour](https://github.com/jasperalani/riseandflour)
-  A live production website for a local café — [riseandflour.co.uk](https://riseandflour.co.uk) — built on WordPress with a fully custom theme designed and coded from scratch.
+  A live production website for a local cafe — [riseandflour.co.uk](https://riseandflour.co.uk) — built on WordPress with a fully custom theme designed and coded from scratch.
 
 - 🤗 The project I am most proud of: [expression-evaluator](https://github.com/jasperalani/expression-evaluator).
   expression-evaluator is a tool written in [Vlang](https://vlang.io/) that;
